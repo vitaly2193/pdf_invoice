@@ -1,0 +1,4 @@
+/* ignore build and node_modules folders */
+.vscode/
+.idea/
+vendor/
